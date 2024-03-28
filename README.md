@@ -26,5 +26,5 @@ Ferris is the unofficial mascot of the Rust community.
 <div align="left">
   <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/uproject.png" alt="uproject" style="height: 120px; width: 250px;"/>
   <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/clulab.png" alt="clulab" style="height: 120px; width: 250px;"/>
-  <div># Copyright (c) 2024 #UlinProject (Denis Kotlyarov)</div>
+  <b>Copyright (c) 2024 #UlinProject (Denis Kotlyarov)</b>
 </div>
