@@ -25,7 +25,7 @@
 ### Art license 3:
 
 <div align="left">
-  <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/uproject.png" alt="uproject" style="height: 120px; width: 250px;"/>
-  <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/clulab.png" alt="clulab" style="height: 120px; width: 250px;"/>
+  <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/uproject.png" alt="uproject" style="height: 100px; width: 220px;"/>
+  <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/clulab.png" alt="clulab" style="height: 100px; width: 220px;"/>
   <b>Copyright (c) 2024 #UlinProject (Denis Kotlyarov)</b>
 </div>
