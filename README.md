@@ -3,7 +3,9 @@
   <b>[img]</b>
   </br></br>
 <div id="badges">
-  <img src="https://github.com/UlinProject/img/blob/main/short_70/clulab.png" alt="clulab" style="height: 35px; max-width: 100%;"/>
+  <a href="https://github.com/clucompany">
+    <img src="https://github.com/UlinProject/img/blob/main/short_70/clulab.png" alt="clulab" style="height: 35px; max-width: 100%;"/>
+  </a>
 </div>
 </div>
 
@@ -25,7 +27,11 @@
 ### Art license 3:
 
 <div align="left">
-  <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/uproject.png" alt="uproject" style="height: 120px; width: 250px;"/>
-  <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/clulab.png" alt="clulab" style="height: 120px; width: 250px;"/>
+  <a href="https://github.com/denisandroid">
+    <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/uproject.png" alt="uproject" style="height: 100px; width: 220px;"/>
+  </a>
+  <a href="https://github.com/clucompany">
+    <img align="left" src="https://github.com/UlinProject/img/blob/main/block_450_220/clulab.png" alt="clulab" style="height: 100px; width: 220px;"/>
+  </a>
   <b>Copyright (c) 2024 #UlinProject (Denis Kotlyarov)</b>
 </div>
