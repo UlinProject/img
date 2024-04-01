@@ -4,7 +4,7 @@
   </br></br>
 <div id="badges">
   <a href="https://github.com/clucompany">
-    <img src="https://github.com/UlinProject/img/blob/main/short_70/clulab.png" alt="clulab" style="height: 35px; max-width: 100%;"/>
+    <img src="https://github.com/UlinProject/img/blob/main/short_32/clulab.png" alt="clulab"/>
   </a>
 </div>
 </div>
